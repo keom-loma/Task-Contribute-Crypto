@@ -15,5 +15,9 @@
     <color name="colorBTCDeActive">#FFFF6060</color>
     <color name="white">#FFFFFFFF</color>
     <color name="sky">#FF42B1F6</color>
+    <color name="grey">#FF9B9B9B</color>
+    <color name="colorBTCActiveG">#FF135C00</color>
+    <color name="colorBTCDeActiveG">#FF9C0000</color>
+    <color name="skyG">#FF2E57E5</color>
 
 </resources>
